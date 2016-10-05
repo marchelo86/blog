@@ -1,0 +1,12 @@
+# This file is auto-generated during the composer install
+parameters:
+    database_host: localhost
+    database_port: null
+    database_name: symfony
+    database_user: root
+    database_password: brainzoom213
+    mailer_transport: gmail
+    mailer_host: smtp.gmail.com
+    mailer_user: shustr@brainzoom.com.ua
+    mailer_password: brainzoom
+    secret: e2cf17c1bd116fa429de07be1667b64c7a65db77
